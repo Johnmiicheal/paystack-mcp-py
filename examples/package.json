@@ -1,0 +1,24 @@
+{
+  "name": "paystack-mcp-client-example",
+  "version": "1.0.0",
+  "description": "JavaScript client example for Paystack MCP server",
+  "type": "module",
+  "main": "javascript-client.js",
+  "scripts": {
+    "start": "node javascript-client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "keywords": [
+    "paystack",
+    "mcp",
+    "model-context-protocol",
+    "payments",
+    "javascript",
+    "client"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+} 
